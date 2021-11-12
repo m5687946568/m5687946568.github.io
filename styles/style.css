@@ -25,4 +25,5 @@ body {
 img[https://github.com/fluidicon.png] {
   display: block;
   margin: 0 auto;
+  width: 60px;
 }
